@@ -13,3 +13,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Design: Figma
 Version Control: Git and GitHub
+# StayEase: Airbnb Clone Project
