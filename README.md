@@ -14,3 +14,4 @@ Database: MongoDB
 Design: Figma
 Version Control: Git and GitHub
 # StayEase: Airbnb Clone Project
+# StayEase: Airbnb Clone Project
