@@ -134,3 +134,90 @@ This section defines the roles and responsibilities within the **Airbnb Clone Pr
 ---
 
 By clearly defining these roles and responsibilities, the project team ensures effective collaboration and achieves the project's goals efficiently.
+# UI Component Patterns
+
+This section outlines the UI components planned for the **Airbnb Clone Project**. These components will help structure the application's interface and provide a consistent user experience.
+
+---
+
+## 1. Navbar
+- **Description**:  
+  A navigation bar that allows users to navigate through the application.
+- **Features**:
+  - Links to key pages (Home, Search, Login, etc.).
+  - Search input for quick property lookups.
+  - A responsive design that adapts to different screen sizes.
+
+---
+
+## 2. Property Card
+- **Description**:  
+  A card component to display individual property details in a grid or list format.
+- **Features**:
+  - Property image, name, and description.
+  - Price per night.
+  - Ratings and reviews.
+  - Button to view more details or book.
+
+---
+
+## 3. Footer
+- **Description**:  
+  A footer for providing additional information and navigation links.
+- **Features**:
+  - Links to About Us, Contact, Terms of Service, and Privacy Policy.
+  - Social media icons for quick access.
+  - Copyright information.
+
+---
+
+## 4. Search Bar
+- **Description**:  
+  A dynamic search bar to allow users to filter and find properties.
+- **Features**:
+  - Location input.
+  - Date picker for check-in and check-out.
+  - Guest selector (e.g., adults, children).
+
+---
+
+## 5. Property Filters
+- **Description**:  
+  Sidebar or dropdown filters to refine search results.
+- **Features**:
+  - Filters by price, location, property type, and amenities.
+  - Real-time updates to the property list based on selections.
+
+---
+
+## 6. Modal Component
+- **Description**:  
+  A reusable modal window for various interactions.
+- **Features**:
+  - Login and signup forms.
+  - Booking confirmation.
+  - Error messages or notifications.
+
+---
+
+## 7. Header Section
+- **Description**:  
+  A prominent header on the homepage to grab the user's attention.
+- **Features**:
+  - Hero image or video.
+  - Call-to-action buttons (e.Become a ).
+
+---
+
+## 8. Host Dashboard
+- **Description**:  
+  A section dedicated to hosts for managing their listings.
+- **Features**:
+  - View and edit property listings.
+  - Check booking requests.
+  - Insights on earnings and occupancy.
+
+---
+
+By organizing the application into modular UI components, we ensure scalability, reusability, and a consistent design across the application.
+HostExplore  Now,g., 
